@@ -2,6 +2,8 @@ import { useRouter } from "next/router";
 import { FaFeather } from "react-icons/fa";
 const SidebarTweetButton = () => {
     const router = useRouter( );
+
+    
     return (
         <div onClick={() => router.push('/.') }>
 {/*Mobile first view */}
