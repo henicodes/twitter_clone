@@ -18,9 +18,11 @@
 - [x] Post tweets, reply to tweets & like tweets
 - [ ] Follow other users 
 - [ ] replay to content.
-- [ ] Notification when content is liked or replayed to.  
-
-      
+- [ ] Notification when content is liked or replayed to.
+- [x] Authentication system & Notification system
+- [x] Image Upload using Base64 strings.
+- [x] Prisma ORM with MongoDB.  
+     
 ## Prerequisites
    Node version 14.x
 ## Cloning the repository
